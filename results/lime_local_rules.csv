@@ -1,0 +1,11 @@
+local_rule,contribution
+delivered_energy_wh <= 4.98,-13.516970189865125
+discharge_duration_s <= 2901.34,-1.3831915633752159
+cycle_number > 126.25,-0.8242605334198129
+0.63 < voltage_drop_v <= 0.82,0.33012283230311346
+0.50 < current_std_a <= 0.69,0.2954745640129548
+temperature_max_c <= 39.09,0.28332190219774606
+-1.86 < current_mean_a <= -1.74,0.2413341548989185
+2.16 < voltage_min_v <= 2.43,0.2064935104549223
+temperature_mean_c <= 32.11,0.18501025256878403
+2.19 < load_voltage_mean_v <= 2.41,-0.09799013717967302

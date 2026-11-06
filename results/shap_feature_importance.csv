@@ -1,0 +1,16 @@
+feature,average_shap_importance
+delivered_energy_wh,5.578316338111538
+discharge_duration_s,0.8267463584326705
+cycle_number,0.6245767869261822
+voltage_drop_v,0.25927791256043836
+current_std_a,0.18318537909856797
+voltage_mean_v,0.09668831427302488
+current_mean_a,0.07817023712906333
+load_voltage_mean_v,0.04732126857272118
+temperature_rise_c,0.04695954555768388
+temperature_max_c,0.03608807393968909
+temperature_mean_c,0.013814651584289598
+voltage_min_v,0.00710270849552831
+voltage_std_v,0.003777844879769377
+ambient_temperature_c,0.0
+load_voltage_min_v,0.0
